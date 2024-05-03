@@ -5,10 +5,15 @@ https://rtucloud1-my.sharepoint.com/:w:/r/personal/juris_roga_edu_rtu_lv/_layout
 ---Darba sadalījums---
 
 Juris - heiristiskā funkcija
+
 Elvis - Neironu Tīkls
+
 Kirils - 1.daļa
+
 Ričards - K-vid
+
 Kalvis - KNN
+
 Rinalds - Logistic Regression
 
 ---Vispārīgas prasības---
