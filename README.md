@@ -3,6 +3,7 @@
 https://rtucloud1-my.sharepoint.com/:w:/r/personal/juris_roga_edu_rtu_lv/_layouts/15/Doc.aspx?sourcedoc=%7B30690E07-5667-4BF9-897C-7A3AB08E0DA0%7D&file=PR2_veidne.docx&action=default&mobileredirect=true
 
 ---Darba sadalījums---
+
 Juris - heiristiskā funkcija
 Elvis - Neironu Tīkls
 Kirils - 1.daļa
@@ -11,6 +12,7 @@ Kalvis - KNN
 Rinalds - Logistic Regression
 
 ---Vispārīgas prasības---
+
 Zemāk ir uzskaitītas vispārīgas prasības, kuras studentu komandai būtu jāievēro, gatavojot atskaiti par praktisko darbu:
 
 Darba atskaitē ir jābūt šādām daļām: titullapa, lapa ar Orange rīka darbplūsmas vizuālo atspoguļojumu visam projektam, sadaļas, kuras atbilst šī praktiskā darba daļām (I, II un III), izmantoto informācijas avotu saraksts.
@@ -22,6 +24,7 @@ Atskaite ir jāiesniedz kā viens .docx vai .pdf fails.
 Atskaite nav jāpapildina ar nevajadzīgo teoriju un informāciju. Studentu komandai ir jādod īsas un kodolīgas atbildes.
 
 ---Vērtēšana---
+
 Punktu skaits:     15 punkti
 
 Vērtējums par atskaiti – 3 punkti
