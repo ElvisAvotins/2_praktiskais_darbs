@@ -41,3 +41,6 @@ Darbs automātiski netiks izskatīts, un aizstāvēšana netiks nozīmēta, ja:
 ir konstatēts akadēmiskā godīguma pārkāpums;
 studentu komanda ir izvēlējusies datu kopu, kura nav piemērota klasifikācijas uzdevumam un neapmierina aprakstītās prasības;
 studentu komanda uz atskaites titullapas nav norādījusi saiti uz izveidoto projektu un datu kopu.
+
+
+
