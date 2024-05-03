@@ -1,4 +1,4 @@
-Atskaite: 
+---Atskaite---
 https://rtucloud1-my.sharepoint.com/:w:/r/personal/juris_roga_edu_rtu_lv/_layouts/15/Doc.aspx?sourcedoc=%7B30690E07-5667-4BF9-897C-7A3AB08E0DA0%7D&file=PR2_veidne.docx&action=default&mobileredirect=true
 
 ---Darba sadalījums---
